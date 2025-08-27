@@ -16,6 +16,13 @@
   </a>
 </p>
 
+<!-- CV Button -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1jpWhEqayb2QmTigDFsrSafvrSvUN1T_U/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  </a>
+</p>
+
 <!-- Typing -->
 <p align="center">
   <a href="https://github.com/aliabdelazim7" target="_blank">
@@ -116,30 +123,26 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 ---
 
-### 📫 Connect with Me
-- <a href="https://github.com/aliabdelazim7" target="_blank">GitHub</a>  
-- <a href="https://www.linkedin.com/in/ali-abdelazim" target="_blank">LinkedIn</a>  
-- 📧 Email: **alialawady2006@gmail.com**  
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelazim7&theme=tokyo-night" alt="activity graph"/>
+</p>
 
 ---
 
-### 🗓️ Experience Timeline
+### 💭 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-- **2024 – Present**  
-  🎓 Started **BSc. Computer Science** at Mansoura University  
+---
 
-- **Dec 2024 – Mar 2025**  
-  🎨 **Frontend Developer Intern** @ Azzrk Company  
-  - Built responsive UI components with React.js, HTML, CSS, Sass  
-  - Integrated APIs and optimized performance  
+### 👀 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliabdelazim7&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
-- **Apr 2025 – Present**  
-  ⚙️ **Backend Developer Intern** @ BlueStock Fintech  
-  - Developed RESTful APIs (1,000+ daily users)  
-  - Automated deployments with GitHub Actions  
-  - Worked in Agile sprints with >90% test coverage  
-
-  ---
+---
 
 ✨ *“Code, Learn, Break, Fix, Repeat.”* ✨
 
