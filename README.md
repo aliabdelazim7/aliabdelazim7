@@ -18,7 +18,7 @@
 
 <!-- CV Button -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1jpWhEqayb2QmTigDFsrSafvrSvUN1T_U/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1jpWhEqayb2QmTigDFsrSafvrSvUN1T_U/view?usp=drive_link" target="_blank alt="CV">
     <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 </p>
