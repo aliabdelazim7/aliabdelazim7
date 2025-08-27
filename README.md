@@ -121,6 +121,8 @@ Also exploring **Cyber Security** and **Data Analysis**.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelazim7&layout=compact&theme=radical" />
 </p>
 
+![Snake animation](https://github.com/aliabdelazim7/aliabdelazim7/blob/output/snake.svg)
+
 ---
 
 ### 📈 Activity Graph
