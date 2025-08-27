@@ -121,15 +121,6 @@ Also exploring **Cyber Security** and **Data Analysis**.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelazim7&layout=compact&theme=radical" />
 </p>
 
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelazim7&theme=tokyo-night" alt="activity graph"/>
-</p>
-
----
-
 ### 🐍 GitHub Contributions Snake
 
 <p align="center">
@@ -138,6 +129,13 @@ Also exploring **Cyber Security** and **Data Analysis**.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliabdelazim7/output/github-snake.svg" />
     <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/aliabdelazim7/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelazim7&theme=tokyo-night" alt="activity graph"/>
 </p>
 
 ---
