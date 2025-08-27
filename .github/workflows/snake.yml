@@ -1,70 +1,31 @@
-name: Generate GitHub Snake
+name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:         # manual trigger
+  schedule: # كل 6 ساعات يحدث الرسم
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # تقدر تشغله يدوي
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/snake.svg
 
-      - name: Commit & push generated files to output branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p dist
-          git fetch origin
-          git checkout -B output
-          cp -r dist/* .
-          git add -A
-          git commit -m "chore: update github-snake images" || echo "no changes to commit"
-          git push -u origin output --force
-name: Generate GitHub Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:         # manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit & push generated files to output branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p dist
-          git fetch origin
-          git checkout -B output
-          cp -r dist/* .
-          git add -A
-          git commit -m "chore: update github-snake images" || echo "no changes to commit"
-          git push -u origin output --force
