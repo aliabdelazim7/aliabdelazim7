@@ -130,20 +130,6 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 ---
 
-### 💭 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 👀 Visitors Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliabdelazim7&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
----
-
 ✨ *“Code, Learn, Break, Fix, Repeat.”* ✨
 
 <!-- Footer -->
