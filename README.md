@@ -130,9 +130,22 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 ---
 
+### 🐍 GitHub Contributions Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliabdelazim7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliabdelazim7/output/github-snake.svg" />
+    <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/aliabdelazim7/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ✨ *“Code, Learn, Break, Fix, Repeat.”* ✨
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8b5cf6,100:0ea5e9"/>
 </p>
+
