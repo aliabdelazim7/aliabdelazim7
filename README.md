@@ -91,6 +91,7 @@ Also exploring **Cyber Security** and **Data Analysis**.
 ---
 
 ### 📜 Certificates
+- <a href="https://drive.google.com/file/d/1GXIjAlvavD-huz7mJJx1laKKvbl-Afhs/view?usp=drive_link" target="_blank">💻 SoftWare Enginner Certificate</a>  
 - <a href="https://drive.google.com/file/d/1Wzj7qB9hyZ5kmsRJBsKAN_k08NANrzwN/view?usp=drive_link" target="_blank">🌐 Web Development Certificate</a>  
 - <a href="https://drive.google.com/file/d/1jf2OdW_LaKkX8Xs7s0eEoAPwDl53WvXF/view?usp=drive_link" target="_blank">🧪 Software Testing Certificate</a>  
 - <a href="https://drive.google.com/file/d/1rn0HwcwAdsip6MVoDUEdVo4gdQ4MKzMo/view?usp=drive_link" target="_blank">🔐 Cyber Security Certificate</a>  
