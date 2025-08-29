@@ -61,6 +61,10 @@ Also exploring **Cyber Security** and **Data Analysis**.
 ---
 
 ### 📂 Internships
+- **AWS APAC Solutions Architecture Job Simulation on Forage - August 2025**
+  - Designed and simple and scalable hosting architecture based on Elastic Beanstalk for a client experiencing significant growth and slow response times.
+  - Described my proposed architecture in plain language, ensuring my client understood how it works and how costs will be calculated for it.
+    
 - **Skyscanner Software Engineering Job Simulation on Forage - August 2025**
   - Completed a job simulation involving building a basic web app.
   - Create a Dropwizard microservice to assist users in finding car rentals and hotels
@@ -69,13 +73,13 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 - **Backend Developer Intern — BlueStock Fintech (Remote, Apr 2025 – Present)**  
   - Built and integrated RESTful APIs supporting >1,000 daily users, improving response time by 28%.  
-  - Automated deployment with GitHub Actions, reducing release timefrom 30 mins to under 10 mins.  
+  - Automated deployment with GitHub Actions, reducing release time from 30 mins to under 10 mins.  
   - Worked in Agile sprints with >90% test coverage for backend features.  
  
 - **Frontend Developer Intern — Azzrk Company (Hybrid, Dec 2024 – Mar 2025)**  
   - Developed and optimized responsive UI components using **React.js, HTML, CSS, Sass**.  
   - Integrated frontend with backend APIs, ensuring smooth data flow and reducing loading time by 20%.  
-  - Refactored UI logic applying best practices, decreasing rendering issues by 15%.  
+  - Refactored UI logic, applying best practices, decreasing rendering issues by 15%.  
 
 ---
 
