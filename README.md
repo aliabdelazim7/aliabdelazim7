@@ -62,11 +62,10 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 ### 📂 Internships
 - **Skyscanner Software Engineering Job Simulation on Forage - August 2025**
- - Completed a job simulation involving building a basic web app.
- - Create a Dropwizard microservice to assist users in finding car rentals and
-   hotels
- - Developed an Android application to display a user’s flight itinerary using
-   Backpack
+  - Completed a job simulation involving building a basic web app.
+  - Create a Dropwizard microservice to assist users in finding car rentals and hotels
+  - Developed an Android application to display a user’s flight itinerary using Backpack
+   
 
 - **Backend Developer Intern — BlueStock Fintech (Remote, Apr 2025 – Present)**  
   - Built and integrated RESTful APIs supporting >1,000 daily users, improving response time by 28%.  
