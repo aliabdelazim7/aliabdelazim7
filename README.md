@@ -60,32 +60,10 @@ Also exploring **Cyber Security** and **Data Analysis**.
 
 ---
 
-### 📂 Internships
-- **AWS APAC Solutions Architecture Job Simulation on Forage - August 2025**
-  - Designed and simple and scalable hosting architecture based on Elastic Beanstalk for a client experiencing significant growth and slow response times.
-  - Described my proposed architecture in plain language, ensuring my client understood how it works and how costs will be calculated for it.
-    
-- **Skyscanner Software Engineering Job Simulation on Forage - August 2025**
-  - Completed a job simulation involving building a basic web app.
-  - Create a Dropwizard microservice to assist users in finding car rentals and hotels
-  - Developed an Android application to display a user’s flight itinerary using Backpack
-   
+### 🗓️ Experience Timeline  
 
-- **Backend Developer Intern — BlueStock Fintech (Remote, Apr 2025 – Present)**  
-  - Built and integrated RESTful APIs supporting >1,000 daily users, improving response time by 28%.  
-  - Automated deployment with GitHub Actions, reducing release time from 30 mins to under 10 mins.  
-  - Worked in Agile sprints with >90% test coverage for backend features.  
- 
-- **Frontend Developer Intern — Azzrk Company (Hybrid, Dec 2024 – Mar 2025)**  
-  - Developed and optimized responsive UI components using **React.js, HTML, CSS, Sass**.  
-  - Integrated frontend with backend APIs, ensuring smooth data flow and reducing loading time by 20%.  
-  - Refactored UI logic, applying best practices, decreasing rendering issues by 15%.  
-
----
-
-### 🗓️ Experience Timeline
 - **2024 – Present**  
-  🎓 Started **BSc. Computer Science** at Mansoura University  
+  🎓 Started **BSc. Computer Science** @ Mansoura University  
 
 - **Dec 2024 – Mar 2025**  
   🎨 **Frontend Developer Intern** @ Azzrk Company  
@@ -98,15 +76,26 @@ Also exploring **Cyber Security** and **Data Analysis**.
   - Automated deployments with GitHub Actions  
   - Worked in Agile sprints with >90% test coverage  
 
+- **Aug 2025**  
+  ☁️ **AWS APAC Solutions Architecture Virtual Internship (Forage)**  
+  - Designed a scalable hosting architecture using Elastic Beanstalk  
+  - Explained solution in plain language + cost overview  
+
+- **Aug 2025**  
+  ✈️ **Skyscanner Software Engineering Virtual Internship (Forage)**  
+  - Built a Dropwizard microservice for car rentals & hotels  
+  - Developed an Android app for flight itinerary  
+
 ---
 
-### 📜 Certificates
-- <a href="https://drive.google.com/file/d/1gpufFxuJJ61ABrmrxhv6tkAyBPoZ81-B/view?usp=drive_link" target="_blank">👷 Solutions Architecture Certificate</a>  
-- <a href="https://drive.google.com/file/d/1GXIjAlvavD-huz7mJJx1laKKvbl-Afhs/view?usp=drive_link" target="_blank">💻 SoftWare Enginner Certificate</a>  
-- <a href="https://drive.google.com/file/d/1Wzj7qB9hyZ5kmsRJBsKAN_k08NANrzwN/view?usp=drive_link" target="_blank">🌐 Web Development Certificate</a>  
-- <a href="https://drive.google.com/file/d/1jf2OdW_LaKkX8Xs7s0eEoAPwDl53WvXF/view?usp=drive_link" target="_blank">🧪 Software Testing Certificate</a>  
-- <a href="https://drive.google.com/file/d/1rn0HwcwAdsip6MVoDUEdVo4gdQ4MKzMo/view?usp=drive_link" target="_blank">🔐 Cyber Security Certificate</a>  
-- <a href="https://drive.google.com/file/d/1iXyV7FVpzBZrFM1eilVQvKqQWxsper8I/view?usp=drive_link" target="_blank">📊 Data Analysis Certificate</a>  
+### 📜 Certificates (Timeline Style)  
+
+- **2024** 🌐 <a href="https://drive.google.com/file/d/1Wzj7qB9hyZ5kmsRJBsKAN_k08NANrzwN/view?usp=drive_link" target="_blank">Web Development Certificate</a>  
+- **2024** 💻 <a href="https://drive.google.com/file/d/1GXIjAlvavD-huz7mJJx1laKKvbl-Afhs/view?usp=drive_link" target="_blank">Software Engineer Certificate</a>  
+- **2024** 👷 <a href="https://drive.google.com/file/d/1gpufFxuJJ61ABrmrxhv6tkAyBPoZ81-B/view?usp=drive_link" target="_blank">Solutions Architecture Certificate</a>  
+- **2025** 🧪 <a href="https://drive.google.com/file/d/1jf2OdW_LaKkX8Xs7s0eEoAPwDl53WvXF/view?usp=drive_link" target="_blank">Software Testing Certificate</a>  
+- **2025** 🔐 <a href="https://drive.google.com/file/d/1rn0HwcwAdsip6MVoDUEdVo4gdQ4MKzMo/view?usp=drive_link" target="_blank">Cyber Security Certificate</a>  
+- **2025** 📊 <a href="https://drive.google.com/file/d/1iXyV7FVpzBZrFM1eilVQvKqQWxsper8I/view?usp=drive_link" target="_blank">Data Analysis Certificate</a>  
 
 ---
 
@@ -150,4 +139,3 @@ Also exploring **Cyber Security** and **Data Analysis**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8b5cf6,100:0ea5e9"/>
 </p>
-
