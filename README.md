@@ -85,6 +85,11 @@ Also exploring **Cyber Security** and **Data Analysis**.
   ✈️ **Skyscanner Software Engineering Virtual Internship (Forage)**  
   - Built a Dropwizard microservice for car rentals & hotels  
   - Developed an Android app for flight itinerary  
+- **September 2025**
+  ✈️ **Skyscanner Front-End Software Engineering virtual Internship (Forage)**
+  - Completed a job simulation where I built a web application using React as a front-end engineer at Skyscanner.
+  - Developed a page for picking a travel date using Skyscanner’s open-source Backpack React library.
+  - Customised my application and ran automated tests to ensure it rendered properly.
 
 ---
 
@@ -96,7 +101,7 @@ Also exploring **Cyber Security** and **Data Analysis**.
 -  🧪 <a href="https://drive.google.com/file/d/1jf2OdW_LaKkX8Xs7s0eEoAPwDl53WvXF/view?usp=drive_link" target="_blank">Software Testing Certificate</a>  
 -  🔐 <a href="https://drive.google.com/file/d/1rn0HwcwAdsip6MVoDUEdVo4gdQ4MKzMo/view?usp=drive_link" target="_blank">Cyber Security Certificate</a>  
 -  📊 <a href="https://drive.google.com/file/d/1iXyV7FVpzBZrFM1eilVQvKqQWxsper8I/view?usp=drive_link" target="_blank">Data Analysis Certificate</a>  
-
+-  🌐 <a href="https://drive.google.com/file/d/1i08DadBy-M0GmvYuQMkX3fiDky0Eb8EH/view?usp=drive_link" target="_blank">Front-End Developer Certificate</a>  
 ---
 
 ### 🛠️ Highlight Projects
