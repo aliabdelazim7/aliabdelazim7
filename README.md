@@ -33,10 +33,10 @@
 ---
 
 ### 👋 About Me
-Hi, I'm **Ali Abdelazim**, a Computer Science student and aspiring **Full-Stack Developer**.  
-Skilled in building scalable REST APIs with **Node.js, Express, MongoDB**, and frontend applications with **React.js**.  
-Experienced with **Docker, GitHub Actions, and Agile workflows**, focusing on clean, maintainable code and performance optimization.  
-Also exploring **Cyber Security** and **Data Analysis**.  
+Hi, I'm **Ali Abdelazim, a Computer Science student and Frontend Developer growing into Full-Stack Development.
+I build responsive web applications with React.js, JavaScript, HTML, and CSS, and have hands-on practice in backend development using Node.js, Express, and MongoDB.
+I’ve worked with Docker, GitHub Actions, and Agile workflows, always aiming for clean, maintainable, and high-performance code.
+Currently, I’m also exploring Cyber Security and Data Analysis to broaden my technical skills.**.  
 
 - 🎓 BSc. Computer Science, Mansoura University (2024 – 2028)  
 - 🌱 Currently sharpening **JavaScript (ES6+, DOM, Async, OOP)** and preparing for **.NET Backend**  
