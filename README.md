@@ -104,18 +104,32 @@ Currently, I’m also exploring Cyber Security and Data Analysis to broaden my t
 -  🌐 <a href="https://drive.google.com/file/d/1i08DadBy-M0GmvYuQMkX3fiDky0Eb8EH/view?usp=drive_link" target="_blank">Front-End Developer Certificate</a>  
 ---
 
-### 🛠️ Highlight Projects
-- 📝 **Task Manager REST API** — Node.js | Express.js | MongoDB | JWT | Docker | GitHub Actions  
-  - Role-based access, rate-limiting, centralized error handling  
-  - Automated CI/CD with Docker + GitHub Actions  
+## 🚀 highlight Projects  
 
-- 📚 **Blog Platform Frontend** — React.js | HTML | CSS | Sass  
-  - Responsive UI, API integration (CRUD + Auth), improved performance  
+### 🛒 [Mini E-Commerce Website](https://mini-e-commerce-task.netlify.app/)  
+A mini **React.js e-commerce app** with product listing, cart management, and checkout flow.  
+**Tech Stack:** React.js, Context API, React Router, Fetch API, CSS  
+---
 
-- ✅ **To-Do List** — Arrays + DOM + LocalStorage  
-- ⏰ **Digital Clock** — `setInterval` + Date  
-- 🎲 **Random Number & Grades Generators** — JavaScript basics  
+### 📝 [To-Do List App](https://to-do-list-task4123.netlify.app/)  
+A **CRUD to-do list app** with add, edit, delete, and complete task features.  
+Tasks are saved in **localStorage**.  
+**Tech Stack:** React.js, Hooks (useState, useEffect), CSS, localStorage  
+---
 
+### 📊 [Admin Dashboard](https://admin-dashboard-45.netlify.app/)  
+An interactive **Admin Dashboard** featuring charts, tables, and a responsive design.  
+**Tech Stack:** React.js, Recharts, CSS, Responsive Layout  
+---
+
+### 💬 [Social Media Platform](https://social-media-platfom45.netlify.app/)  
+A front-end **social media UI** showcasing a modern layout.  
+**Tech Stack:** React.js, JSX, CSS, Responsive Design  
+---
+
+### 🌐 [Simple E-Commerce](https://simple-ecommerce-task45.netlify.app/)  
+A basic e-commerce website built with HTML, CSS, and JavaScript.  
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6+)  
 ---
 
 ### 📊 GitHub Stats
