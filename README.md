@@ -36,7 +36,7 @@ Hi, I'm **Ali Abdelazim**, a Computer Science student and **Frontend Developer**
 - 🎓 **BSc. Computer Science, Mansoura University (2024 – 2028)**  
 - 💻 Skilled in **React.js, Node.js, Express, NestJS, MongoDB, SQL**  
 - 🌱 Currently focusing on **JavaScript (ES6+, OOP, Async)** and preparing for **.NET Backend**  
-- 🚀 Completed several **technical internships** (Frontend, Backend, React.js, Virtual Internships)  
+- 🚀 Completed several **technical internships** (Frontend, Backend, React.js, Full Stack, Virtual Internships)  
 - 🔒 Exploring **Cyber Security** and **Data Analysis** to broaden my skill set  
 
 ---
@@ -52,8 +52,19 @@ Hi, I'm **Ali Abdelazim**, a Computer Science student and **Frontend Developer**
 
 - **Sep 2025 – Oct 2025**  
   ⚛️ **React.js Developer Intern** @ Coding Samurai  
-  - Built projects using React.js (Counter App, To-Do List, E-Commerce)  
+  - Built projects using React.js (Counter App, To-Do List, Mini E-Commerce)  
   - Worked with Context API, React Router, API integration  
+
+- **Sep 2025 – Oct 2025**  
+  🌐 **Web Development Intern** @ CodeAlpha  
+  - Built front-end projects: To-Do List App, Age Calculator  
+  - Worked with **HTML, CSS, JavaScript** (DOM & LocalStorage)  
+
+- **Sep 2025 – Oct 2025**  
+  🖥️ **Full Stack Development Intern** @ CodeAlpha  
+  - Developed **E-commerce Store** (cart, order processing, authentication)  
+  - Built **Real-Time Communication App** (WebRTC + Socket.io)  
+  - Applied RESTful API design, authentication, DB integration (MongoDB)  
 
 - **Apr 2025 – Present**  
   ⚙️ **Backend Developer Intern** @ BlueStock Fintech  
@@ -114,6 +125,23 @@ A front-end **social media UI** showcasing a modern layout.
 ### 🌐 [Simple E-Commerce](https://simple-ecommerce-task45.netlify.app/)  
 A basic e-commerce website built with HTML, CSS, and JavaScript.  
 **Tech Stack:** HTML5, CSS3, JavaScript (ES6+)  
+
+### 📅 [Age Calculator](#)  
+A simple **JS app** to calculate age from user input.  
+**Tech Stack:** JavaScript, HTML, CSS  
+
+### 📡 [Real-Time Communication App](#)  
+Built with **WebRTC + Socket.io**, featuring video calls, chat, and screen sharing.  
+**Tech Stack:** Node.js, Express, Socket.io, WebRTC  
+
+### 🔢 [Counter App](#)  
+A simple **React.js counter app** with state management.  
+**Tech Stack:** React.js, Hooks  
+
+---
+
+### 🌐 Portfolio  
+Check out my personal portfolio 👉 [ali-abdelazim-portfolio.netlify.app](https://ali-abdelazim-portfolio.netlify.app/)  
 
 ---
 
