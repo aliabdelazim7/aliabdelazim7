@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ali-abdelazim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://aliabdelazim-portfolio.netlify.app" target="_blank">
+<a href="https://ali-abdelazim-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:alialawady2006@gmail.com" target="_blank">
