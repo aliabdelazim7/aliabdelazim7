@@ -54,33 +54,44 @@ Hi, I'm **Ali Abdelazim**, a Computer Science student and **Frontend Developer**
 ### 🗓️ Experience Timeline  
 
 - **Sep 2025 – Oct 2025**  
-  ⚛️ **React.js Developer Intern** @ Coding Samurai  
-  - Built projects using React.js (Counter App, To-Do List, E-Commerce)  
-  - Worked with Context API, React Router, API integration  
+  ⚛️ **React.js Developer Intern** @ Code Samurai  
+  - Built projects using React.js (**Counter App, To-Do List, Mini E-Commerce, Dashboard**)  
+  - Worked with **Context API, React Router, API integration**  
 
-- **Apr 2025 – Present**  
-  ⚙️ **Backend Developer Intern** @ BlueStock Fintech  
-  - Developed RESTful APIs (1,000+ daily users)  
-  - Automated deployments with GitHub Actions  
-  - Worked in Agile sprints with >90% test coverage  
+- **Sep 2025 – Oct 2025**  
+  🌐 **Web Development Intern** @ CodeAlpha  
+  - Built responsive web apps using **React.js, HTML, CSS, Sass, JavaScript**  
+  - Focused on front-end development & API integration  
 
-- **Dec 2024 – Mar 2025**  
-  🎨 **Frontend Developer Intern** @ Azzrk Company  
-  - Built responsive UI components with React.js, HTML, CSS, Sass  
-  - Integrated APIs and optimized performance  
+- **Sep 2025 – Dec 2025**  
+  🖥️ **Full Stack Development Intern** @ CodeAlpha  
+  - Developed full-stack apps (**E-Commerce, Social Media Platform, RTC App**)  
+  - Frontend: **React.js, HTML, CSS, Sass, JavaScript**  
+  - Backend: **Node.js, Express, MongoDB**  
 
 - **Aug 2025**  
   ☁️ **AWS APAC Solutions Architecture Virtual Internship (Forage)**  
-  - Designed scalable hosting architecture with Elastic Beanstalk  
+  - Designed scalable hosting architecture with **Elastic Beanstalk**  
 
 - **Aug 2025**  
   ✈️ **Skyscanner Software Engineering Virtual Internship (Forage)**  
-  - Built microservices & Android app for flight itinerary  
+  - Developed **microservices & Android app** for flight itinerary  
 
 - **Sep 2025**  
   ✈️ **Skyscanner Front-End Virtual Internship (Forage)**  
-  - Developed a React web app using Backpack library  
+  - Built a **React web app** using Backpack library  
   - Customized UI & ran automated tests  
+
+- **Apr 2025 – Jul 2025**  
+  ⚙️ **Backend Developer Intern** @ BlueStock Fintech  
+  - Built RESTful APIs serving **1K+ daily users**  
+  - Automated deployments with **GitHub Actions**  
+  - Contributed to **Agile sprints** with >90% test coverage  
+
+- **Dec 2024 – Mar 2025**  
+  🎨 **Frontend Developer Intern** @ Azzrk Company  
+  - Created responsive UI components with **React.js, HTML, CSS, Sass**  
+  - Integrated **REST APIs** and optimized performance  
 
 ---
 
