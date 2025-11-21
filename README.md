@@ -6,154 +6,122 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://github.com/aliabdelazim7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ali-abdelazim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="https://ali-abdelazim-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alialawady2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <!-- CV Button -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/15Sx8pvxxYo5j0mWdGZT9ZDCi6sAX9iq4/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  <a href="/mnt/data/Ali Abdelazim- WordPress -CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
-<!-- Typing -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=680&lines=Frontend+React.js+Developer;Backend+Node.js+%7C+NestJS;Databases+MongoDB,+PostgreSQL,+MySQL;Cyber+Security+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=720&lines=WordPress+Developer;Frontend+Developer+(React.js+%26+Elementor);SEO+%26+PageSpeed+Optimization;AI-Powered+Web+Development;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-### 👋 About Me
-Hi, I'm **Ali Abdelazim**, a Computer Science student and **Frontend Developer** on my journey to become a **Full-Stack Engineer**.  
+## 👋 About Me
 
-- 🎓 **BSc. Computer Science, Mansoura University (2024 – 2028)**  
-- 💻 Skilled in **React.js, HTML, CSS, Sass, JavaScript (ES6+)**  
-- 🌱 Currently learning **Backend Development with Node.js & Express** to expand into **Full-Stack**  
-- 🚀 Completed multiple **technical internships** (Frontend, Backend, React.js, Virtual Internships)  
-- 🔒 Exploring **Cyber Security** and **Data Analysis** to broaden my skill set  
+Hi, I'm **Ali Abdelazim**, a **WordPress Developer** and **Frontend Developer (React.js & Elementor)** focused on building  
+**fast, responsive, and SEO-optimised websites**.
+
+📌 From my CV →  
+- WordPress Developer Intern at **Mo Solutions**  
+- Experienced with **Elementor, ACF, CPT, WooCommerce**  
+- Skilled in **React.js, JavaScript, HTML, CSS, Sass**  
+- Strong in **PageSpeed Optimization (90+ scores)**  
+- Use AI tools daily for **code, SEO, debugging, workflows**
+
+🎯 Currently focusing on:  
+- Custom WordPress Themes & Plugins  
+- Headless WordPress (React.js)  
+- Performance & Core Web Vitals  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,express,nest,py,sql,mongodb,postgres,mysql,docker,postman,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,wordpress,figma,git,github,vscode" />
 </p>
 
----
-
-### 🗓️ Experience Timeline  
-
-- **Sep 2025 – Oct 2025**  
-  ⚛️ **React.js Developer Intern** @ Code Samurai  
-  - Built projects using React.js (**Counter App, To-Do List, Mini E-Commerce, Dashboard**)  
-  - Worked with **Context API, React Router, API integration**  
-
-- **Sep 2025 – Oct 2025**  
-  🌐 **Web Development Intern** @ CodeAlpha  
-  - Built responsive web apps using **React.js, HTML, CSS, Sass, JavaScript**  
-  - Focused on front-end development & API integration  
-
-- **Sep 2025 – Dec 2025**  
-  🖥️ **Full Stack Development Intern** @ CodeAlpha  
-  - Developed full-stack apps (**E-Commerce, Social Media Platform, RTC App**)  
-  - Frontend: **React.js, HTML, CSS, Sass, JavaScript**  
-  - Backend: **Node.js, Express, MongoDB**  
-
-- **Aug 2025**  
-  ☁️ **AWS APAC Solutions Architecture Virtual Internship (Forage)**  
-  - Designed scalable hosting architecture with **Elastic Beanstalk**  
-
-- **Aug 2025**  
-  ✈️ **Skyscanner Software Engineering Virtual Internship (Forage)**  
-  - Developed **microservices & Android app** for flight itinerary  
-
-- **Sep 2025**  
-  ✈️ **Skyscanner Front-End Virtual Internship (Forage)**  
-  - Built a **React web app** using Backpack library  
-  - Customized UI & ran automated tests  
-
-- **Apr 2025 – Jul 2025**  
-  ⚙️ **Backend Developer Intern** @ BlueStock Fintech  
-  - Built RESTful APIs serving **1K+ daily users**  
-  - Automated deployments with **GitHub Actions**  
-  - Contributed to **Agile sprints** with >90% test coverage  
-
-- **Dec 2024 – Mar 2025**  
-  🎨 **Frontend Developer Intern** @ Azzrk Company  
-  - Created responsive UI components with **React.js, HTML, CSS, Sass**  
-  - Integrated **REST APIs** and optimized performance  
+✔ **WordPress:** Elementor, Theme Customisation, ACF, CPT, WooCommerce  
+✔ **Frontend:** HTML5, CSS3, Sass, JavaScript (ES6+), React.js  
+✔ **Performance:** PageSpeed Optimization, Caching, Image Optimization  
+✔ **Tools:** Git, GitHub, Postman, Figma  
+✔ **AI Tools:** ChatGPT, GitHub Copilot, Perplexity  
 
 ---
 
-### 📜 Certificates  
+## 🗂️ Experience
 
-- 🌐 [Web Development Certificate](https://drive.google.com/file/d/1Wzj7qB9hyZ5kmsRJBsKAN_k08NANrzwN/view?usp=drive_link)  
-- 💻 [Software Engineer Certificate](https://drive.google.com/file/d/1GXIjAlvavD-huz7mJJx1laKKvbl-Afhs/view?usp=drive_link)  
-- ☁️ [Solutions Architecture Certificate](https://drive.google.com/file/d/1gpufFxuJJ61ABrmrxhv6tkAyBPoZ81-B/view?usp=drive_link)  
-- 🧪 [Software Testing Certificate](https://drive.google.com/file/d/1jf2OdW_LaKkX8Xs7s0eEoAPwDl53WvXF/view?usp=drive_link)  
-- 🔐 [Cyber Security Certificate](https://drive.google.com/file/d/1rn0HwcwAdsip6MVoDUEdVo4gdQ4MKzMo/view?usp=drive_link)  
-- 📊 [Data Analysis Certificate](https://drive.google.com/file/d/1iXyV7FVpzBZrFM1eilVQvKqQWxsper8I/view?usp=drive_link)  
-- 🎨 [Front-End Developer Certificate](https://drive.google.com/file/d/1i08DadBy-M0GmvYuQMkX3fiDky0Eb8EH/view?usp=drive_link)  
+### **WordPress Developer Intern — Mo Solutions**  
+*(Matches the CV: :contentReference[oaicite:2]{index=2})*  
+- Working on **EG MOM Recipes**, a food blog built with WordPress.  
+- Built dynamic recipe pages using **Elementor, ACF, CPT**.  
+- Improved performance to **90+ PageSpeed**.  
+- Designed reusable Elementor templates.  
+- Used AI tools for SEO copy, formatting, and workflow automation.
 
----
-
-## 🚀 Highlight Projects  
-
-### 🛒 [Mini E-Commerce Website](https://mini-e-commerce-task.netlify.app/)  
-A mini **React.js e-commerce app** with product listing, cart management, and checkout flow.  
-**Tech Stack:** React.js, Context API, React Router, Fetch API, CSS  
-
-### 📝 [To-Do List App](https://to-do-list-task4123.netlify.app/)  
-A **CRUD to-do list app** with add, edit, delete, and complete task features.  
-**Tech Stack:** React.js, Hooks (useState, useEffect), CSS, localStorage  
-
-### 📊 [Admin Dashboard](https://admin-dashboard-45.netlify.app/)  
-An interactive **Admin Dashboard** featuring charts, tables, and a responsive design.  
-**Tech Stack:** React.js, Recharts, CSS, Responsive Layout  
-
-### 💬 [Social Media Platform](https://social-media-platfom45.netlify.app/)  
-A front-end **social media UI** showcasing a modern layout.  
-**Tech Stack:** React.js, JSX, CSS, Responsive Design  
-
-### 🌐 [Simple E-Commerce](https://simple-ecommerce-task45.netlify.app/)  
-A basic e-commerce website built with HTML, CSS, and JavaScript.  
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+)  
+### **Frontend Developer Intern — Azzrk Company**  
+*(Matches CV & LinkedIn)*  
+- Developed responsive UI components using **React.js, HTML, CSS, Sass**.  
+- Improved engagement by 25% and reduced load time by 20%.  
+- Refactored UI logic and solved rendering issues.  
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Highlight Projects
+### **EG MOM Recipes — WordPress | Elementor | ACF | CPT**
+- Dynamic recipe system using ACF + CPT  
+- Reusable Elementor templates  
+- 90+ PageSpeed optimisation  
+- Recipe Schema for SEO  
+- Mobile-first responsive design  
+
+### **Business Website — WordPress | Elementor | Astra**
+- Full website build  
+- 90+ PageSpeed score  
+- Custom layouts + SEO structure  
+- AI-optimised content and images  
+
+### **Blog System — WordPress | ACF | CPT**
+- Full dynamic blog  
+- Optimised queries  
+- Fast, clean architecture  
+
+### **Frontend Blog Platform — React.js**
+- Modular UI  
+- CRUD + Auth  
+- +35% performance improvement  
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aliabdelazim7&show_icons=true&rank_icon=github&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aliabdelazim7&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=aliabdelazim7&theme=radical" />
 </p>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelazim7&layout=compact&theme=radical" />
 </p>
 
-![Snake animation](https://github.com/aliabdelazim7/aliabdelazim7/blob/output/snake.svg)
-
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelazim7&theme=tokyo-night" alt="activity graph"/>
-</p>
+### ✨ *“Code, Learn, Improve, Repeat.”* ✨
 
----
-
-✨ *“Code, Learn, Break, Fix, Repeat.”* ✨
-
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8b5cf6,100:0ea5e9"/>
 </p>
