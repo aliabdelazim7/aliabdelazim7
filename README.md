@@ -18,7 +18,7 @@
 
 <!-- CV Button -->
 <p align="center">
-  <a href="/mnt/data/Ali Abdelazim- WordPress -CV.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1559SzjKeOYVDrPu7DHfNpVhfRdtnGkmk/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
