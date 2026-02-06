@@ -30,7 +30,7 @@
 
 Hi, I'm **Ali Abdelazim**, a **Full-Stack WordPress Developer** focused on building **scalable, high-performance digital products**. I bridge the gap between technical backend logic and responsive frontend design.
 
-[cite_start]📌 **Highlights:** - 💼 **WordPress Developer** at **Black Eagle** & **Mo Solutions**. [cite: 51]
+ **Highlights:** - 💼 **WordPress Developer** at **Black Eagle** & **Mo Solutions**. [cite: 51]
 - 🛠️ Expert in **Custom Themes, Plugins, Elementor Pro & WooCommerce**.  
 - 🚀 Specialized in **FinTech & LMS Platforms** (See Projects below).  
 - ⚡ Strong focus on **PageSpeed (90+)**, **Security**, and **SEO Schema**.  
@@ -60,13 +60,13 @@ Hi, I'm **Ali Abdelazim**, a **Full-Stack WordPress Developer** focused on build
 - Delivering commercial WordPress solutions and managing corporate portfolios.
 - Optimizing client websites for speed, security, and mobile responsiveness.
 
-### [cite_start]**Web Development Intern — Mo Solutions** [cite: 51]
+### [cite_start]**Web Development Intern — Mo Solutions**
 *(Oct 2025 – Dec 2025)*
 - Developed culinary CMS **"EG MOM Recipes"** with dynamic recipe schemas.
 - Achieved **90+ PageSpeed** scores through asset optimization.
-- [cite_start]Awarded "Certificate of Appreciation" for professional conduct. [cite: 47]
+- [cite_start]Awarded "Certificate of Appreciation" for professional conduct.
 
-### [cite_start]**Web Development Intern — CodeAlpha** [cite: 31]
+### [cite_start]**Web Development Intern — CodeAlpha**
 *(Sep 2025 – Dec 2025)*
 - Completed intensive training on real-world web development scenarios.
 - Collaborated with remote teams to debug and implement logic.
